@@ -4,3 +4,10 @@ klikniemy przycisk Fork serwis utworzy nam naszą własną kopię
 repozytorium, które przeglądamy. Będzie to nasza kopia więc
 mamy do niej prawo do zapisu.
 
+Ćwiczenia:
+1) Z naszego konta wysukujemy repozytorium rperlinski/zpi-basic3
+   i robimy naszą własną kpię tego repozytorium - przycisk Fork.
+2) Tworzymy sobie lokalną kopię nowo utworzonego repozytorium - git clone.
+
+Na razie to wszystko.
+
