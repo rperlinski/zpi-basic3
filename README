@@ -8,6 +8,10 @@ mamy do niej prawo do zapisu.
 1) Z naszego konta wysukujemy repozytorium rperlinski/zpi-basic3
    i robimy naszą własną kpię tego repozytorium - przycisk Fork.
 2) Tworzymy sobie lokalną kopię nowo utworzonego repozytorium - git clone.
+3) Dodajemy plik do repozytorium z ciekawym pytaniem związanym z zarządzaniem
+   projektami informatycznymi, z systemem git, zatwierdzamy zmiany.
+4) Wysyłamy zmiany na nasze zdalne repozytorium.
+5) Prosimy o uwzględnienie zmian opiekuna projektu (przycisk Pull Request)
+   podająć porządny opis wprowadzonych zmian.
 
-Na razie to wszystko.
 
